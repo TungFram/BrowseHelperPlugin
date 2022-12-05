@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.tungfram.browsehelperplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.tungfram.browsehelperplugin.MyBundle
 
 class MyApplicationService {
 
